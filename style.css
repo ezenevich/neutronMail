@@ -279,3 +279,12 @@ nav > a{
   letter-spacing: 0.25px;
   color: #959393;
 }
+
+.laptop-icons > img:nth-child(1){
+  margin-left: 33px;
+  margin-top: 10px;
+}
+.laptop-icons > img:nth-child(2){
+  margin-left: 33px;
+  margin-top: 10px;
+}
